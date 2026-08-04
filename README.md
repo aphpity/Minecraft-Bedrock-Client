@@ -1,12 +1,13 @@
 # MINECRAFT BEDROCK CLIENT
-A lightweight utility client for Minecraft Bedrock Edition.
+A lightweight utility client for Minecraft Bedrock Edition which is called "Ether521 client"
 
 ## Features
-- AimAssist (Normal Aimbot & Ender Pearl Aimbot)
+- AimAssist (Normal Smooth Aimassist & EnderPearl Aimbot)
 - AutoClicker（left and right、custom cps and delayfix)
-- Velocity (custom value)
+- Velocity (xyz custom value)
 - Reach
 - AutoJumpReset
+
 
 ## ⚠️ Important Warning
 1. This client is for **offline single-player testing only**.
@@ -15,10 +16,10 @@ A lightweight utility client for Minecraft Bedrock Edition.
 4. No commercial resale, repackaging or paid redistribution without authorization.
 
 ## Supported Version
-Minecraft Bedrock Edition 1.16.100.4
+Minecraft Bedrock Edition,not support java lmao
 
 ## How To Use
-1. Inject the compiled DLL into the game process.
+1. Open the exe and wait for injecting the compiled hack.DLL into the minecraft game process.
 2. Open the in-game menu to toggle each module.
 
 ## License
